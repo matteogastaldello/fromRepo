@@ -19,7 +19,7 @@ info:
     name: CC BY-SA 4.0
     url: 'https://gitlab.com/gitlab-org/gitlab/-/blob/master/LICENSE'
 servers:
-- url: https://www.gitlab.com/api/
+- url: https://gitlab.com/api/
 security:
   - ApiKeyAuth: []
 tags:
